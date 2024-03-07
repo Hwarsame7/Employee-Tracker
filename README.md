@@ -15,6 +15,9 @@
 This is a command line application that allows users to add departments, roles and employees. It will also allow the user to view departments, roles and employees as well as update employees. 
 
 ## Visuals
+<img width="1728" alt="Screenshot 2023-12-21 at 17 44 41" src="https://github.com/Hwarsame7/Employee-Tracker/assets/146027409/3d6c8598-3eac-4da2-b160-83911dedd2ea">
+
+<img width="1728" alt="Screenshot 2023-12-21 at 17 59 27" src="https://github.com/Hwarsame7/Employee-Tracker/assets/146027409/0115a1ab-fc42-474a-8871-3ede65eb7d33">
 
 
 ## Technologies Used
