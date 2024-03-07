@@ -16,9 +16,6 @@ This is a command line application that allows users to add departments, roles a
 
 ## Visuals
 
-![Application within CLI](<Screenshot 2023-12-21 at 17.59.27.png>)
-
-https://drive.google.com/file/d/1mljJlRAAEfiCTefZGi2R85ymt_1Y6L-w/view
 
 ## Technologies Used
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -48,9 +45,3 @@ to discuss what you would like to change.
 
 This project is licensed under the MIT License - see the [MIT License](https://opensource.org/licenses/MIT) for details.
 
-## Contact
-
-
-  For questions, please contact me via:
-  - Github: [viren15152](https://github.com/viren15152)
-  - Email: viren15152@gmail.com
