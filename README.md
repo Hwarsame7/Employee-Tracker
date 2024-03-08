@@ -19,6 +19,9 @@ This is a command line application that allows users to add departments, roles a
 
 <img width="1728" alt="Screenshot 2023-12-21 at 17 59 27" src="https://github.com/Hwarsame7/Employee-Tracker/assets/146027409/0115a1ab-fc42-474a-8871-3ede65eb7d33">
 
+https://drive.google.com/file/d/1J4B7v4VpozXBbH92GMOqi1g7z7Cdt3yU/view
+
+
 
 ## Technologies Used
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
